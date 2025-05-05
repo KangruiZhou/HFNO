@@ -15,6 +15,10 @@ conda activate HFNO
 
 ## A Quick Start
 
+## Datasets
+We provide the [datasets](https://zenodo.org/records/15272771) we used in the paper. 
+
+
 ### Domain Decomposition
 To divide the domain, use the following command:
 
